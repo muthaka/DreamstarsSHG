@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dreamstars SHG</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login hints -->
+    <string name="uname">User Name</string>
+    <string name="lpass">Password</string>
+    <string name="btnlog">Login</string>
+    <string name="desc">sign up</string>
+
+    <!-- Start hints -->
+    <string name="bviewc">Contribution</string>
+    <string name="bachieve">Achievements</string>
+    <string name="bmembers">Members</string>
+    <string name="brules">Constitution</string>
+
+</resources>
